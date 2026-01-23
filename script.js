@@ -18,4 +18,5 @@ fetch('./data.json')
       list.innerHTML += html;
     });
   })
+
   .catch(error => console.error('Error loading JSON:', error));
