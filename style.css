@@ -92,4 +92,5 @@ body {
   .container { flex-direction: row; }
   .result-side { width: 50%; border-radius: 30px; }
   .summary-side { width: 50%; }
+
 } 
