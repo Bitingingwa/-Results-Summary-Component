@@ -1,2 +1,2 @@
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). </br>
-Frontend Mentor challenges help to improve coding skills by building realistic projects. 
+Frontend Mentor challenges help to improve coding skills by building realistic projects.
